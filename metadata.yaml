@@ -1,0 +1,37 @@
+_repo: Bolo-the-cave-boy_69405
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wilson, L. J.
+    gutenberg_agent_id: '55246'
+    url: http://www.gutenberg.org/2009/agents/55246
+creator:
+  author:
+    agent_name: Grimes, Katharine Atherton
+    alias: Grimes, Katherine Atherton
+    birthdate: 1877
+    deathdate: 1967
+    gutenberg_agent_id: '55245'
+    url: http://www.gutenberg.org/2009/agents/55245
+description: ''
+gutenberg_issued: '2022-11-22'
+identifiers:
+  gutenberg: '69405'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:722849
+pgterms:marc905: 20220705110659grimes
+pgterms:marc906: '1915'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: 'United States: F. A. Owen Publishing Company,1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Instructor literature series, no. 256
+subjects:
+- !lcsh 'Prehistoric peoples -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Bolo the cave boy
+url: http://www.gutenberg.org/ebooks/69405
